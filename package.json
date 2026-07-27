@@ -1,0 +1,6 @@
+{
+  "name": "sam-ai-chat",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Sam AI - a web chatbot with dark mode, voice input, and image upload, backed by the Anthropic API"
+}
